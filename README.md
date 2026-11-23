@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="MEK — AI-Assisted Developer · Prompt Engineering" width="100%">
+  <img src="assets/banner.svg" alt="MEK — Prompt. Build. Ship. Repeat." width="100%">
 </p>
 
 <table>
